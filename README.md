@@ -38,7 +38,7 @@ Mounting instructions are included for one type of Cybernet chassis, a very typi
 
 A basic user guide is included.
 
-I put a movie about this on Youtube: TBD
+I put a movie about this on Youtube: https://youtu.be/u1AFa6-rFkU
 
 Also check out my other repository with the FM modulator/demodulator add-on.
 
