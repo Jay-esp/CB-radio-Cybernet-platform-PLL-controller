@@ -34,6 +34,8 @@ The controller needs a 5V supply, it's not on the board, i used a 7805 regulator
 
 Soldering the MCP is not for beginners, use plenty of flux and a special tip (hollowed out tip like Plato's SMD flow tip or Pace wave or mini wave tip).
 
+Programming instructions are included, it will guide you through the installation of the development environment and to program the ESP32-S3 with the source code.
+
 Mounting instructions are included for one type of Cybernet chassis, a very typical and widely used chassis.
 
 A basic user guide is included.
@@ -41,6 +43,4 @@ A basic user guide is included.
 I put a movie about this on Youtube: https://youtu.be/u1AFa6-rFkU
 
 Also check out my other repository with the FM modulator/demodulator add-on.
-
-
 
