@@ -44,3 +44,8 @@ I put a movie about this on Youtube: https://youtu.be/u1AFa6-rFkU
 
 Also check out my other repository with the FM modulator/demodulator add-on.
 
+Update 2/2025
+A few minor bug fixes.
+For a Colt excalibur i made a version for a larger display, a 1.54" I2C with CH1116 driver, note that this chip is not compatible with the SSD1306 like the other version, it is not supported by the adafruit SSD1306 library hence another library U8G2 is used and code is rewritten for this library.
+
+
