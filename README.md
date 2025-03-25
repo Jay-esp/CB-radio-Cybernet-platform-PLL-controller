@@ -48,6 +48,6 @@ Update 2/2025
 
 A few minor bug fixes.
 
-For a Colt excalibur i made a version for a larger display, a 1.54" I2C with CH1116 driver, note that this chip is not compatible with the SSD1306 like the 0.96" display, it is not supported by the adafruit SSD1306 library hence another library U8G2 is used and code is rewritten for this library. A larger encoder Bourns PEC11H-4225F-S0024 is used, i used the PCB from the other encoder i usually use for the debouncing conponents, the encoder has the same pinout. 
+For a Colt excalibur i made a version for a larger display, a 1.54" I2C with CH1116 driver, note that this chip is not compatible with the SSD1306 like the 0.96" display, it is not supported by the adafruit SSD1306 library hence another library U8G2 is used and code is rewritten for this library. A larger encoder Bourns PEC11H-4225F-S0024 is used, i used the PCB from the other encoder i usually use for the debouncing components, the encoder has the same pinout. 
 
 
